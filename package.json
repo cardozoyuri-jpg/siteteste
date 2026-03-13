@@ -1,0 +1,25 @@
+{
+  "name": "cardozoyuri-jpg",
+  "version": "1.0.0",
+  "description": "![](https://media1.tenor.com/m/aY73SQF8qpkAAAAC/cars-kachow.gif)",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cardozoyuri-jpg/cardozoyuri-jpg.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cardozoyuri-jpg/cardozoyuri-jpg/issues"
+  },
+  "homepage": "https://github.com/cardozoyuri-jpg/cardozoyuri-jpg#readme",
+  "dependencies": {
+    "cors": "^2.8.6",
+    "express": "^5.2.1",
+    "mysql2": "^3.19.1"
+  }
+}
