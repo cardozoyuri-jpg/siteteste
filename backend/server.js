@@ -12,3 +12,21 @@ const conexao = mysql.createConnection({
     password: '',
     database: 'escola4'
 });
+
+app.post("salvar", (req, res) => {
+    
+})const express = require('express');
+const mysql = require('mysql2');
+const cors = require('cors');
+
+const app = express();
+app.use(cors());
+app.use(express.json());
+
+const conexao = mysql.createConnection({
+    host: 'localhost',
+    user: 'root',
+    password: '',
+    database: 'escola4'
+
+});
